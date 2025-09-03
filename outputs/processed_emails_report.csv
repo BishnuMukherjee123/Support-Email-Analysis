@@ -1,0 +1,21 @@
+sender,subject,body,sent_date,is_urgent
+eve@startup.io,help required with account verification,"do you support integration with third-party apis? specifically, i’m looking for crm integration options.",2025-08-19 00:58:09,False
+diana@client.co,general query about subscription,"hi team, i am unable to log into my account since yesterday. could you please help me resolve this issue?",2025-08-25 00:58:09,False
+eve@startup.io,immediate support needed for billing error,"hello, i wanted to understand the pricing tiers better. could you share a detailed breakdown?",2025-08-20 12:58:09,True
+alice@example.com,urgent request: system access blocked,"hi team, i am unable to log into my account since yesterday. could you please help me resolve this issue?",2025-08-21 21:58:09,True
+eve@startup.io,question: integration with api,"despite multiple attempts, i cannot reset my password. the reset link doesn’t seem to work.",2025-08-20 04:58:09,False
+alice@example.com,critical help needed for downtime,"hi team, i am unable to log into my account since yesterday. could you please help me resolve this issue?",2025-08-18 08:58:09,True
+diana@client.co,help required with account verification,there is a billing error where i was charged twice. this needs immediate correction.,2025-08-20 19:58:09,True
+diana@client.co,support needed for login issue,i am facing issues with verifying my account. the verification email never arrived. can you assist?,2025-08-23 06:58:09,False
+alice@example.com,general query about subscription,"our servers are down, and we need immediate support. this is highly critical.",2025-08-26 02:58:09,True
+alice@example.com,help required with account verification,"do you support integration with third-party apis? specifically, i’m looking for crm integration options.",2025-08-21 13:58:09,False
+diana@client.co,support needed for login issue,"hi team, i am unable to log into my account since yesterday. could you please help me resolve this issue?",2025-08-26 15:58:09,False
+alice@example.com,help required with account verification,"do you support integration with third-party apis? specifically, i’m looking for crm integration options.",2025-08-24 05:58:09,False
+eve@startup.io,critical help needed for downtime,"our servers are down, and we need immediate support. this is highly critical.",2025-08-21 19:58:09,True
+alice@example.com,query about product pricing,there is a billing error where i was charged twice. this needs immediate correction.,2025-08-24 13:58:09,True
+alice@example.com,general query about subscription,i am facing issues with verifying my account. the verification email never arrived. can you assist?,2025-08-26 01:58:09,False
+alice@example.com,immediate support needed for billing error,"despite multiple attempts, i cannot reset my password. the reset link doesn’t seem to work.",2025-08-19 07:58:09,True
+charlie@partner.org,help required with account verification,"this is urgent – our system is completely inaccessible, and this is affecting our operations.",2025-08-18 00:58:09,True
+diana@client.co,request for refund process clarification,could you clarify the steps involved in requesting a refund? i submitted one last week but have no update.,2025-08-22 17:58:09,False
+eve@startup.io,query about product pricing,"our servers are down, and we need immediate support. this is highly critical.",2025-08-22 09:58:09,True
+bob@customer.com,urgent request: system access blocked,"despite multiple attempts, i cannot reset my password. the reset link doesn’t seem to work.",2025-08-19 13:58:09,True
